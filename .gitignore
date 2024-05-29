@@ -1,0 +1,12 @@
+cypress/videos
+node_modules/
+npm-debug.log
+.idea/
+cypress/screenshots
+cypress/results
+public/
+.DS_Store
+index.json
+my.secrets
+.npmrc
+runner-results/

@@ -1,0 +1,17 @@
+{
+  "salutation": "Mr.",
+  "user_full_name": "Test Dpg",
+  "first_name": "Test",
+  "last_name": "Dpg",
+  "address": "456 Park Avenue",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "zip_code": "401001",
+  "country": "India",
+  "mobile": "1234567890",
+  "user_password": "Test@dpg",
+  "date_of_birth": "8/8/2000",
+  "register_email": "test@dpg.com",
+  "login_email": "abc@test.com",
+  "login_name":"abc"
+}

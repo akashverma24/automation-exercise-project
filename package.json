@@ -1,0 +1,20 @@
+{
+  "name": "dpg-cypress-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "report:merge": "mochawesome-merge --reportDir cypress/results/json > cypress/results/mochawesome-bundle.json",
+    "report:generate": "marge cypress/results/mochawesome-bundle.json -o cypress/reports/html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "cypress": "^13.10.0"
+  },
+  "dependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
