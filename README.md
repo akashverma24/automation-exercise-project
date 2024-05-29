@@ -1,6 +1,6 @@
 # Welcome to AutomationExercise Test Framework !
 
- **AutomationExercise Automation** is automation project for testing Signup, Login and Addtocart scenarios.
+ **AutomationExercise Automation** is automation project for testing Signup, Login and Addtocart scenarios on website - https://automationexercise.com/.
 
 
 
