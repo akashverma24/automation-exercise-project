@@ -32,6 +32,7 @@ $ npx cypress run --spec "cypress/e2e/cart_Item/add_product.cy.js"
 ```
 file: index.html
 path: cypress/reports
+HTML report will not be generated in cypress UI, use headless command.
 ```
 
 
